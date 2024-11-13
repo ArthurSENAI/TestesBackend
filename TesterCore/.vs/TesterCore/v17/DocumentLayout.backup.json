@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8A868-7741-4C10-9FE1-E76FCF3ED827}|..\\TesterXUnit\\TesterXUnit.csproj|c:\\users\\aluno noite\\source\\repos\\testerxunit\\operacoestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76595A89-EB48-484A-8E9D-92179280485E}|..\\TesterMSTest\\TesterMSTest.csproj|c:\\users\\aluno noite\\source\\repos\\testermstest\\operacoestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7F32F3-DA8A-4FD6-9E5F-971520697C27}|TesterCore.csproj|c:\\users\\aluno noite\\source\\repos\\testercore\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7F32F3-DA8A-4FD6-9E5F-971520697C27}|TesterCore.csproj|solutionrelative:operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7F32F3-DA8A-4FD6-9E5F-971520697C27}|TesterCore.csproj|c:\\users\\aluno noite\\source\\repos\\testercore\\testercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C7F32F3-DA8A-4FD6-9E5F-971520697C27}|TesterCore.csproj|solutionrelative:testercore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TesterCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\TesterCore.csproj",
+              "RelativeDocumentMoniker": "TesterCore.csproj",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\TesterCore.csproj",
+              "RelativeToolTip": "TesterCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T20:08:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacoesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterXUnit\\OperacoesTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterXUnit\\OperacoesTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterXUnit\\OperacoesTests.cs",
+              "RelativeToolTip": "..\\TesterXUnit\\OperacoesTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:59:35.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacoesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterMSTest\\OperacoesTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterMSTest\\OperacoesTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterMSTest\\OperacoesTests.cs",
+              "RelativeToolTip": "..\\TesterMSTest\\OperacoesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:56:44.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Operacoes.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Operacoes.cs",
+              "RelativeToolTip": "Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:54:30.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
